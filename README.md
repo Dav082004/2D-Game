@@ -17,3 +17,5 @@ Get ready for a thrilling 2D action-packed adventure where you, the player, must
 2. **Master the Controls**: Use the arrow keys or WASD to move your character and the spacebar to attack.
 3. **Defeat Enemies**: Each enemy you defeat will add **10 points** to your score.
 4. **Achieve Victory**: Hit **50 points** to win the game and celebrate your victory!
+![Screenshot 2024-08-13 183346](https://github.com/user-attachments/assets/55435bb0-1d4a-4a2a-ac07-41b72f3ce8e0)
+![Screenshot 2024-08-13 183351](https://github.com/user-attachments/assets/6fa66b2d-31fd-4809-a067-6369f6c8a5b1)
